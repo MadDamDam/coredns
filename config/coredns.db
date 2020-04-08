@@ -1,0 +1,7 @@
+env_name.internal.        IN  SOA dns.env_name.internal. admin.env_name.internal. 2020010812 7200 3600 1209600 3600
+dns.env_name.internal.       IN  A      10.10.x.xxx
+dns.env_name.internal.       IN  AAAA   xxxx::1
+docker1.env_name.internal.   IN  A      10.10.x.xxx
+docker1.env_name.internal.   IN  AAAA   xxxx::1
+bastion.env_name.internal.   IN  A      10.10.x.xxx
+bastion.env_name.internal.   IN  AAAA   xxxx::1
